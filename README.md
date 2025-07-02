@@ -1,4 +1,4 @@
-# Kira The Hedgehog
+# Kira
 -
 -
 # KIRA Meme Token
@@ -17,7 +17,7 @@ KIRA is a Solana-based meme token designed to great community , by community to 
 - **Decimals**: nan
 - **Token Address**: nan
 - **Liquidity Pool**: 95%
-- **Developer Wallet** : 5% (vested)
+- **Developer Wallet** : 5% (vested/burn)
 - **No Airdrop, No Presale, No Tax*
 - **Fair Launch — Everyone starts equal*
 
@@ -25,7 +25,7 @@ KIRA is a Solana-based meme token designed to great community , by community to 
 
 Step 1: Swap SOL to XIAN
 Step 2: Bridge XIAN to Mainnet
-Step 3: Buy KIRA on SNAKexchange Quick-Links
+Step 3: Buy KIRA on SNAKexchange 
 
 
 
@@ -41,4 +41,4 @@ We welcome contributions from the community! Please open an issue or pull reques
 
 
 ## License
-By community , Build on https://xian.org/ 
+By community , Built on https://xian.org/ 
