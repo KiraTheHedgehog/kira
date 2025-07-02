@@ -11,7 +11,7 @@ KIRA is a Solana-based meme token designed to great community , by community to 
 
 
 ## Tokenomics
-- **Name**: KIRA
+- **Name**: Kira The Hedgehog
 - **Simbol**: KIRA
 - **Total Supply**: 1,000,000,000
 - **Decimals**: nan
