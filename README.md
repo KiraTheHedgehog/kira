@@ -1,4 +1,4 @@
-# kira
+# KiraTheHedgehog
 -
 -
 # KIRA Meme Token
