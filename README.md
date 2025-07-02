@@ -16,6 +16,10 @@ KIRA is a Solana-based meme token designed to great community , by community to 
 - **Total Supply**: 1,000,000,000
 - **Decimals**: nan
 - **Token Address**: nan
+- **Liquidity Pool**: 95%
+- **Developer Wallet** : 5% (vested)
+- **No Airdrop, No Presale, No Tax*
+- **Fair Launch — Everyone starts equal*
 
 ## How to Buy
 
