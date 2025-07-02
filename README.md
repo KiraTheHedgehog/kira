@@ -31,7 +31,7 @@ Step 3: Buy KIRA on SNAKexchange Quick-Links
 
 ## Community
 
-- Twitter: https://x.com/kirahedgehog_?s=21
+- Twitter: https://x.com/kirahedgehog_
 - Telegram: https://t.me/Kirahedgehog
 - Website: 
 
@@ -40,5 +40,5 @@ We welcome contributions from the community! Please open an issue or pull reques
 
 
 
-## Lisensi
+## License
 By community , Build on https://xian.org/ 
