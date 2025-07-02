@@ -23,9 +23,9 @@ KIRA is a Solana-based meme token designed to great community , by community to 
 
 ## How to Buy
 
-Step 1: Swap SOL to XIAN
-Step 2: Bridge XIAN to Mainnet
-Step 3: Buy KIRA on SNAKexchange 
+- Step 1: Swap SOL to XIAN
+- Step 2: Bridge XIAN to Mainnet
+- Step 3: Buy KIRA on SNAKexchange 
 
 
 
@@ -33,7 +33,7 @@ Step 3: Buy KIRA on SNAKexchange
 
 - Twitter: https://x.com/kirahedgehog_
 - Telegram: https://t.me/Kirahedgehog
-- Website: 
+- Website: https://kirahedgehog.net
 
 ## Contributions
 We welcome contributions from the community! Please open an issue or pull request for suggestions or improvements.
